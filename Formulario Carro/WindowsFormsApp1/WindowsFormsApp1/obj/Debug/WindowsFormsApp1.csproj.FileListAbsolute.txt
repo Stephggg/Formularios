@@ -1,0 +1,10 @@
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TallerMecanico.Form1.resources
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ingrid\Documents\Programacion Estructurada\Tareas\Formulario Carro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
